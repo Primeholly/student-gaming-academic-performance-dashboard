@@ -6,6 +6,8 @@ An interactive dashboard analysing the relationship between gaming behaviour and
 In today’s digital age, gaming has become an integral part of student life, raising important questions about its impact on academic performance. This project presents a data-driven dashboard that explores the relationship between students’ gaming behavior and their academic outcomes.
 Using a structured dataset, the analysis examines key factors such as gaming duration, device type, class attendance, sleep patterns, and emotional responses. The goal is to move beyond assumptions and provide evidence-based insights into how gaming habits influence student performance.
 Ultimately, this project shows that the issue is not gaming itself, but how it is managed, promoting a balanced approach to digital engagement and academic success.
+<img width="920" height="507" alt="Dashboard (2)" src="https://github.com/user-attachments/assets/8eec813b-a738-4c37-9087-4a4c26b37e1f" />
+
 🎯 Project Objectives
 Analyze the impact of gaming habits on academic performance
 Identify behavioral factors influencing CGPA and student outcomes
